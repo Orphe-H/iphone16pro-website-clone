@@ -80,3 +80,7 @@ section {
 		border: 1px solid #bbb;
 	}
 }
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
